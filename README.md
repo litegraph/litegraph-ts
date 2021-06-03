@@ -1,4 +1,4 @@
-# The Graph TypeScript Library (graph-ts)
+# The LiteGraph TypeScript Library (litegraph-ts)
 
 [![npm (scoped)](https://img.shields.io/npm/v/@graphprotocol/graph-ts.svg)](https://www.npmjs.com/package/@graphprotocol/graph-ts)
 [![Build Status](https://travis-ci.org/graphprotocol/graph-ts.svg?branch=master)](https://travis-ci.org/graphprotocol/graph-ts)
