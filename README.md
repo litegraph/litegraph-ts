@@ -73,7 +73,7 @@ For examples of `graph-ts` in use take a look at one of the following subgraphs:
 
 Copyright &copy; 2018 Graph Protocol, Inc. and contributors.
 
-The Graph TypeScript library is dual-licensed under the
+The LiteGraph TypeScript library is dual-licensed under the
 [MIT license](LICENSE-MIT) and the
 [Apache License, Version 2.0](LICENSE-APACHE).
 
